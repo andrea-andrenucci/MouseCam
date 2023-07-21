@@ -8,7 +8,7 @@ This app does not aim to completely replace the mouse, but to show one of the po
 
 To start the app follow those simple steps:
 
-- Download the `.zip` file
+- Download the `MouseCam_v1.0.0.zip` file from https://github.com/andrea-andrenucci/MouseCam/releases/tag/v1.0.0
 - Extract the `MouseCam_v1.0.0` folder
 - In the `dist` folder, run `MouseCam.exe` as administrator
     - Select the index of the camera you want to use, in `range[0,n-1]`
